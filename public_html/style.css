@@ -52,6 +52,9 @@ top: 0;
 left: 0;
 cursor:pointer;
 border-radius:65px;
+-webkit-border-radius:65px;
+-moz-border-radius:65px;
+-o-border-radius:65px;
 }
 
 /* front pane index over rear */
